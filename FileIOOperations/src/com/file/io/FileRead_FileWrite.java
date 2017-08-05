@@ -8,7 +8,7 @@ import java.io.IOException;
 public class FileRead_FileWrite {
 
 	/*
-	 * create file
+	 * create file- new method
 	 */
 
 	protected static boolean CreateFile(File f) {
